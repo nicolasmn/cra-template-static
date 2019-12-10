@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-static",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "static"
+  ],
+  "description": "A static template for Create React App.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicolasmn/cra-template-static.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "bugs": {
+    "url": "https://github.com/nicolasmn/cra-template-static/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}

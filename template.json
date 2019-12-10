@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@rescripts/cli": "^0.0.12",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/user-event": "^7.1.2",
+    "react-dom": "^16.9.0",
+    "react-helmet": "^5.2.1",
+    "react-router-dom": "^5.0.1",
+    "react-snap": "nicolasmn/react-snap"
+  },
+  "scripts": {
+    "start": "rescripts start",
+    "build": "rescripts build",
+    "test": "rescripts test",
+    "eject": "echo \"Ejecting is not possible due to rescripts, see https://github.com/harrysolovay/rescripts for more information\"",
+    "postbuild": "react-snap"
+  }
+}
