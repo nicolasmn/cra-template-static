@@ -1,6 +1,9 @@
 {
   "name": "cra-template-static",
   "version": "1.0.0",
+  "scripts": {
+    "test": "npx create-react-app test --template file:. && npm --prefix test run build"
+  },
   "keywords": [
     "react",
     "create-react-app",
