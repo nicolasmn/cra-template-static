@@ -1,6 +1,7 @@
 # cra-template-static
 
-This is a static template for [Create React App](https://github.com/facebook/create-react-app). Use it to generate static websites **without** React on the client-side.
+This is a static site generator template for [Create React App](https://github.com/facebook/create-react-app).  
+Use it to generate sites **without** React on the client-side.
 
 To use this template, add `--template static` when creating a new app.
 

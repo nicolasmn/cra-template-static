@@ -10,7 +10,7 @@
     "template",
     "static"
   ],
-  "description": "A static template for Create React App.",
+  "description": "A static site generator template for Create React App.",
   "main": "template.json",
   "repository": {
     "type": "git",
